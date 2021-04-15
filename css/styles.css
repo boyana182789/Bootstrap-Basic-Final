@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+h1{color:greenyellow;}
+	
+.my-class{color:red;background-color:lightblue;border:1px solid blue;text-align:center;padding:2em;
+font-family: 'Open Sans', sans-serif; font-size: 50pt}
+.my-class2{color:red;background-color:lightblue;border:1px solid blue;text-align:center;padding:2em;}
+
+p{
+    color: red;
+    }
+p { text-align: center }
+
+div style="background-image: url(../../my-project%20-%20Copy%20-%20Copy/images/background.jpg);">body {
+}
+body {
+    background-image: url(../../my-project%20-%20Copy%20-%20Copy/images/background.jpg);
+	margin: 1em;
+margin: -3px;
+
+}
+{ text-align: center }
